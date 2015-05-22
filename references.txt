@@ -1,0 +1,9 @@
+Galois Tech Talk / Vinyl: Records in Haskell and Type Theory
+http://www.slideshare.net/jonsterling/galois-tech-talk-vinyl-records-in-haskell-and-type-theory
+
+https://vimeo.com/102785458
+
+Proposed GHC Extension: OverloadedRecordFields
+https://ghc.haskell.org/trac/ghc/wiki/Records/OverloadedRecordFields
+https://ghc.haskell.org/trac/ghc/wiki/Records/OverloadedRecordFields/SORF
+
